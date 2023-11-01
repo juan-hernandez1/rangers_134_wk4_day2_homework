@@ -62,4 +62,4 @@ def binary_search(array, target):
             left = middle + 1
     return -1
 
-binary_search([2, 5, 6, 12, 45, 47, 98, 123, 1000], 123)
+print(binary_search([2, 5, 6, 12, 45, 47, 98, 123, 1000], 123))
